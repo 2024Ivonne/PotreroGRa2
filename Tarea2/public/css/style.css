@@ -1,0 +1,32 @@
+
+
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.titulos{
+    color:coral
+    
+}
+
+.subtitulos{
+    color:darkcyan
+}
+
+p{
+    color:darkslategray
+}
+
+h3{
+    color:darkorchid
+}
+
+#enlaces{
+    color:rgb(97, 150, 6)
+}
+
+body {
+    background-color: rgb(243, 239, 239);
+}
+
+
